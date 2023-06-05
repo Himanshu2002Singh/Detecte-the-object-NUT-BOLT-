@@ -1,6 +1,6 @@
 # Detect-the-object-NUT-BOLT-
-I worked on this project under the guidance of # Yamaha Mentors.It
-was a two day # hackathon A.I.2.0 organised in # Chitkara University, I used ##YOLOv5(object detection model) and object
+I worked on this project under the guidance of #Yamaha Mentors.It
+was a two day #hackathon A.I.2.0 organised in #Chitkara University, I used #YOLOv5(object detection model) and object
 counting algorithm.
 
 
