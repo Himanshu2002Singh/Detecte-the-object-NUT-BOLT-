@@ -1,1 +1,1 @@
-# Detecte-the-object-NUT-BOLT-
+# Detect-the-object-NUT-BOLT-
